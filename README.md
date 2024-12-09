@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**Kehan19/Kehan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to Kehan19's GitHub 👋
 
-Here are some ideas to get you started:
+Hello! I'm Kehan, a passionate developer exploring various technologies and building innovative projects. Here, you'll find a collection of my works showcasing my skills in mobile development, system programming, and backend technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### [Hoply](https://github.com/Kehan19/Hoply) 📱
+An Android application developed in Java that functions as a simple social media platform. The app provides users with a straightforward and efficient way to connect with others.
+
+---
+
+### [DM510](https://github.com/Kehan19/DM510) ⚙️
+A C programming project focused on kernel-level coding. This repository highlights my skills in low-level programming and systems-level operations.
+
+---
+
+### [ChipIn](https://github.com/Kehan19/ChipIn) 💸
+A Java-based Android application with a backend powered by the Stellar network. This app serves as a payment platform that manages coins using Stellar’s robust blockchain-based backend.
+
+---
+
+### [DM571](https://github.com/Kehan19/DM571) 🏢
+A system designed to manage and structure a company’s operations. This project showcases my skills in system design and organization.
+
+---
+
+## Connect with Me
+📌 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE)  
+📧 Email: [Your Email Address]  
+
+Feel free to explore my repositories and reach out if you’d like to collaborate or discuss anything tech-related!
+
