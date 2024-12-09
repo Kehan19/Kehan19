@@ -27,7 +27,7 @@ A system designed to manage and structure a company’s operations. This project
 
 ## Connect with Me
 📌 [LinkedIn](https://www.linkedin.com/in/kenneth-birk-hansen-99906129b)  
-📧 Email: [Your Email Address]  
+📧 Email: [Kbirkhansen@gmail.com]  
 
 Feel free to explore my repositories and reach out if you’d like to collaborate or discuss anything tech-related!
 
