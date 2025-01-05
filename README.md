@@ -24,7 +24,7 @@ A Java-based Android application with a backend powered by the Stellar network. 
 A system designed to manage and structure a company’s operations. This project showcases my skills in system design and organization.
 
 ---
-[Desktop Calendar App]()
+[Desktop Calendar App](https://github.com/Kehan19/Calendar)
 A Calendar that sync with a google calendar that runs on your machine.
 ---
 ### [Bachelor Project](https://github.com/Kehan19/Bachelor-Project)
