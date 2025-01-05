@@ -1,7 +1,7 @@
 
 # Welcome to Kehan19's GitHub 👋
 
-Hello! I'm Kehan, a passionate developer exploring various technologies and building innovative projects. Here, you'll find a collection of my works showcasing my skills in mobile development, system programming, and backend technologies.  
+Hello! I'm Kenneth, This is my projects that I have worked on. You'll find a collection of my works showcasing my skills in mobile development, system programming, and backend technologies.  
 
 ## Projects
 
@@ -25,9 +25,10 @@ A system designed to manage and structure a company’s operations. This project
 
 ---
 
+### [Bachelor Project](https://github.com/Kehan19/Bachelor-Project)
+This is my Bachelor project.
+
 ## Connect with Me
 📌 [LinkedIn](https://www.linkedin.com/in/kenneth-birk-hansen-99906129b)  
 📧 Email: [Kbirkhansen@gmail.com]  
-
-Feel free to explore my repositories and reach out if you’d like to collaborate or discuss anything tech-related!
 
